@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/viraj-sanap/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-sanap&theme=buefy&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-sanap&theme=swift&layout=compact" />
 </a>
 <a href="https://github.com/viraj-sanap/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sanap&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sanap&theme=swift" />
 </a>
