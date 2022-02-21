@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viraj-sanap&repo=eda-sports-ipl&theme=swift" />
 </a>
 <a href="https://github.com/viraj-sanap/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sanap&theme=swift&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sanap&theme=swift&layout=compact&langs_count=4" />
 </a>
