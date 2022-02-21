@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-- - Connect, a Flutter and Firebase Application.
-- - Exploratory Data Analysis on NBA Stats.
-- - Netflix Clone, a Django, MySQL and Tailwind CSS Web Application.
-- - CRM using Google Sheets + PostgreSQL + Stripe API on Retool.
-- - Creating websites for a couple of start-ups.
----
+  - Connect, a Flutter and Firebase Application.
+  - Exploratory Data Analysis on NBA Stats.
+  - Netflix Clone, a Django, MySQL and Tailwind CSS Web Application.
+  - CRM using Google Sheets + PostgreSQL + Stripe API on Retool.
+  - Creating websites for a couple of start-ups.
 - 🌱 I’m currently learning Django Framework, ASP.Net, Computer Vision. 
 - 👯 I’m looking to collaborate on projects and internships.
 - 📫 How to reach me: You can connect with me on <a href="mailto:virsanap@gmail.com">mail</a> or <a href="https://www.linkedin.com/in/viraj-sanap/">LinkedIn</a>.
