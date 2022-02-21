@@ -1,6 +1,6 @@
-### Hello there, I am Viraj Rajendra Sanap.! 👋
+## Hello there, I am Viraj Rajendra Sanap.! 👋
 
-##### I am a 20 year old Computer Engineering student pursuing an MBA Tech Course from NMIMS Mumbai. I am a Data Analyst, Web/App Designer, Software Engineer, Technical Content Writer, Contributor, and Fiction Enthusiast.
+### I am a 20 year old Computer Engineering student pursuing an MBA Tech Course from NMIMS Mumbai. I am a Data Analyst, Web/App Designer, Software Engineer, Technical Content Writer, Contributor, and Fiction Enthusiast.
 
 <!--
 **Viraj-Sanap/viraj-sanap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
