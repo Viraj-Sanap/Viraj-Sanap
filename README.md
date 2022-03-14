@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - Connect, a Flutter and Firebase Application.
   - Exploratory Data Analysis on NBA Stats.
-  - Netflix Clone, a Django, MySQL and Tailwind CSS Web Application.
+  - Netflix Clone, a Flask, MySQL and Bootstrap CSS Web Application.
   - CRM using Google Sheets + PostgreSQL + Stripe API on Retool.
   - Creating websites for a couple of start-ups.
 - 🌱 I’m currently learning Django Framework, ASP.Net, Computer Vision. 
