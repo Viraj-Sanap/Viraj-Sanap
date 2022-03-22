@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can connect with me on <a href="mailto:virsanap@gmail.com">mail</a> or <a href="https://www.linkedin.com/in/viraj-sanap/">LinkedIn</a>.
 - 😄 Pronouns: he/him
 
-<a href="https://github.com/viraj-sanap/eda-sports-ipl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viraj-sanap&repo=eda-sports-ipl&theme=swift" />
-</a>
-
-<br><br>
-
 <a href="https://github.com/viraj-sanap/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sanap&theme=swift&layout=compact&langs_count=6" />
+</a>
+
+
+<a href="https://github.com/viraj-sanap/eda-sports-ipl" style="margin-top=5px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viraj-sanap&repo=eda-sports-ipl&theme=swift" />
 </a>
