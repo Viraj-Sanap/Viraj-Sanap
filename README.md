@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/viraj-sanap/eda-sports-ipl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viraj-sanap&repo=eda-sports-ipl&theme=swift" />
 </a>
+
+<br>
+
 <a href="https://github.com/viraj-sanap/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sanap&theme=swift&layout=compact&langs_count=6" />
 </a>
