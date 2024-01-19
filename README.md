@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django Framework, ASP.Net, Computer Vision. 
 - 👯 I’m looking to collaborate on projects and internships.
 - 📫 How to reach me: You can connect with me on <a href="mailto:virsanap@gmail.com">mail</a> or <a href="https://www.linkedin.com/in/viraj-sanap/">LinkedIn</a>.
-- 😄 Pronouns: he/him
 
 <a href="https://github.com/viraj-sanap/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sanap&theme=swift&layout=compact&langs_count=6" />
